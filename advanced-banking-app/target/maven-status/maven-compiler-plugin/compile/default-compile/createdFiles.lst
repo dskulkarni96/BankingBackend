@@ -1,0 +1,8 @@
+com\bank\app\entity\Transaction.class
+com\bank\app\entity\User.class
+com\bank\app\repository\TransactionRepository.class
+com\bank\app\service\BankingService.class
+com\bank\app\repository\AccountRepository.class
+com\bank\app\BankingApplication.class
+com\bank\app\controller\BankController.class
+com\bank\app\entity\Account.class
